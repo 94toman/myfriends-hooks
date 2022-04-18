@@ -1,4 +1,4 @@
-# MyFriend React app
+# MyFriend React app with Hooks
 
 This is a Hooks version of my MyFriends React App
 
