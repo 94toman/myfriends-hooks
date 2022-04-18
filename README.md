@@ -1,5 +1,7 @@
 # MyFriend React app
 
+This is a Hooks version of my MyFriends React App
+
 This app is to demonstrate my ability to use Promises in a single page React app.
 After the page is rendered, I fetch a JSON list of users from [https://gorest.co.in/](https://gorest.co.in/).
 Then I map each user and extend with a URL of a random AI generated face image from [https://github.com/ozgrozer/100k-faces](https://github.com/ozgrozer/100k-faces).
